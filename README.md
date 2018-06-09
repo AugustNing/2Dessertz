@@ -1,6 +1,6 @@
 # voogasalad - 2 Dessertz
 
-This project was the culminating project of Duke's Computer Science 308 class. Students work together for six weeks in a team of 10 to build a Game Engine that allows users to author games of a specific genre and play them in one application. Our team was created an engine for platform scroller games. We heavily utilized object-composition to keep a maximally flexible data structure for the core of the program. We utilized reflection heavily as well to dynamically build an authoring environment based on engine classes to maintain extensive flexibility.
+This project was the culminating project of Duke's Computer Science 308 class. Students work together for six weeks in a team of 10 to build a Game Engine in Java that allows users to author games of a specific genre and play them in one application. Our team was created an engine for platform scroller games. We heavily utilized object-composition to keep a maximally flexible data structure for the core of the program. We utilized reflection heavily as well to dynamically build an authoring environment based on engine classes to maintain extensive flexibility.
 
 
 ### Team Members and Contributions 
