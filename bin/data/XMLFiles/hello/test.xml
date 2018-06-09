@@ -1,0 +1,18 @@
+<Data.TestObject>
+  <number>3</number>
+  <name>biiiiich</name>
+  <map>
+    <entry>
+      <string>yo</string>
+      <int>1</int>
+    </entry>
+    <entry>
+      <string>goodbye</string>
+      <int>1</int>
+    </entry>
+    <entry>
+      <string>hello</string>
+      <int>2</int>
+    </entry>
+  </map>
+</Data.TestObject>

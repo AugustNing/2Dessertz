@@ -1,0 +1,43 @@
+#pane{
+        -fx-background-image: url("background_image.jpg");
+        -fx-background-repeat: stretch;   
+        -fx-background-size: cover;
+        -fx-background-position: center center;
+/*        -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); */
+    }
+
+
+/*
+.root {
+    -fx-background-image: url("background_image.jpg");
+}
+*/
+
+#enginebutton{
+    -fx-background-radius: 50em;
+    -fx-min-width: 80px;
+    -fx-min-height: 80px; 
+    -fx-max-width: 80px; 
+    -fx-max-height: 80px;
+}
+
+.button {
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+}
+
+.button:hover {
+    -fx-scale-x: 1.5;
+    -fx-scale-y: 1.5;
+    -fx-scale-z: 1.5;
+}
+
+#authoringbutton{
+    -fx-background-radius: 50em;
+    -fx-min-width: 80px;
+    -fx-min-height: 80px; 
+    -fx-max-width: 80px; 
+    -fx-max-height: 80px;
+}

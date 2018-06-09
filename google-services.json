@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "503725476369",
+    "firebase_url": "https://voogasalad-a16a0.firebaseio.com",
+    "project_id": "voogasalad-a16a0",
+    "storage_bucket": "voogasalad-a16a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503725476369:android:da5e592e4f45137b",
+        "android_client_info": {
+          "package_name": "vooga.salad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503725476369-r6e4inc79iie22iejrvgtmdtnp2uc6bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-IMJKn-1-TxW_AgWaoFUMcK4sHD3zCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

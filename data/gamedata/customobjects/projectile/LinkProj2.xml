@@ -1,0 +1,80 @@
+<authoring.GameObject>
+  <myName>LinkProj2</myName>
+  <myBehaviors>
+    <authoring.AuthBehavior>
+      <myProperties>
+        <authoring.Property>
+          <myName>xVel</myName>
+          <myValueType>java.lang.Double</myValueType>
+        </authoring.Property>
+        <authoring.Property>
+          <myName>yVel</myName>
+          <myValueType>java.lang.Double</myValueType>
+        </authoring.Property>
+      </myProperties>
+      <myName>engine.behaviors.Movable</myName>
+    </authoring.AuthBehavior>
+    <authoring.AuthBehavior>
+      <myProperties>
+        <authoring.Property>
+          <myValue class="double">40.0</myValue>
+          <myName>damagePower</myName>
+          <myValueType>java.lang.Double</myValueType>
+        </authoring.Property>
+      </myProperties>
+      <myName>engine.behaviors.BulletLike</myName>
+    </authoring.AuthBehavior>
+    <authoring.AuthBehavior>
+      <myProperties>
+        <authoring.Property>
+          <myValue class="string">rectangle</myValue>
+          <myName>shapeType</myName>
+          <myValueType>java.lang.String</myValueType>
+        </authoring.Property>
+        <authoring.Property>
+          <myValue class="string">LinkProj2image</myValue>
+          <myName>imagePath</myName>
+          <myValueType>java.lang.String</myValueType>
+        </authoring.Property>
+        <authoring.Property>
+          <myValue class="double">0.0</myValue>
+          <myName>xPos</myName>
+          <myValueType>java.lang.Double</myValueType>
+        </authoring.Property>
+        <authoring.Property>
+          <myValue class="double">150.0</myValue>
+          <myName>hitBoxWidth</myName>
+          <myValueType>java.lang.Double</myValueType>
+        </authoring.Property>
+        <authoring.Property>
+          <myValue class="double">50.0</myValue>
+          <myName>hitBoxHeight</myName>
+          <myValueType>java.lang.Double</myValueType>
+        </authoring.Property>
+        <authoring.Property>
+          <myValue class="double">0.0</myValue>
+          <myName>yPos</myName>
+          <myValueType>java.lang.Double</myValueType>
+        </authoring.Property>
+        <authoring.Property>
+          <myValue class="string">LinkProj2</myValue>
+          <myName>elementName</myName>
+          <myValueType>java.lang.String</myValueType>
+        </authoring.Property>
+        <authoring.Property>
+          <myValue class="double">150.0</myValue>
+          <myName>displayHeight</myName>
+          <myValueType>java.lang.Double</myValueType>
+        </authoring.Property>
+        <authoring.Property>
+          <myValue class="double">50.0</myValue>
+          <myName>displayWidth</myName>
+          <myValueType>java.lang.Double</myValueType>
+        </authoring.Property>
+      </myProperties>
+      <myName>engine.behaviors.MandatoryBehavior</myName>
+    </authoring.AuthBehavior>
+  </myBehaviors>
+  <myEvents/>
+  <myBehaviorFactory/>
+</authoring.GameObject>
